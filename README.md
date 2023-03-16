@@ -1,1 +1,3 @@
-"# Data-Collection" 
+Collect Tweets by using Twitter API 
+
+Data collection is the process of gathering, measuring, and analyzing accurate data from a variety of relevant sources to find answers to research problems, answer questions, evaluate outcomes, and forecast trends and probabilities. In the data collection process, the Twitter API (application programming interfaces) will be used, which allows developers access to Twitter's social media information, as well as the ‘Tweepy’, a Python package for obtaining tweets. The retrieved tweets will be stored in excel file by using .to_excel() command, allowing them to be accessed via an Excel spreadshee.
